@@ -1,4 +1,4 @@
-![Jorge Vieira banner](/assets/images/header.png)
+![Jorge Vieira banner](/header.png)
 
 # Jorge Vieira  
 
