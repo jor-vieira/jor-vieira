@@ -1,6 +1,5 @@
 ![Jorge Vieira banner](/header.png)
 
-# Jorge Vieira  
 
 ## 📚 About Me  
 I’m Jorge Vieira, a passionate enthusiast of technology, programming, arts, and design.  
